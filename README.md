@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/zfarooq624" target="blank"><img src="https://img.shields.io/twitter/follow/zfarooq624?logo=twitter&style=for-the-badge" alt="zfarooq624" /></a> </p>
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **reactjs,nodejs,python,css,etc**
+- 💬 Ask me about **reactjs,nodejs,python,css,etc etc.....**
 
 - 📫 How to reach me **zaidfarooq624@gmail.com**
 
-- ⚡ Fun fact **I am not funny..xD**<br>
+- ⚡ Fun fact **I am funny..xD**<br>
 <a href="https://www.buymeacoffee.com/zaidfarooq624"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=zaidfarooq624&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 <h3 align="left">Connect with me:</h3>
