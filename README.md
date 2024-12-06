@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/zfarooq624" target="blank"><img src="https://img.shields.io/twitter/follow/zfarooq624?logo=twitter&style=for-the-badge" alt="zfarooq624" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Jenkins**
 
 - 💬 Ask me about **reactjs,nodejs,python,css,etc etc.....**
 
