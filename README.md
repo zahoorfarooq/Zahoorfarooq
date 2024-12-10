@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Jenkins**
 
-- 💬 Ask me about **reactjs,nodejs,python,css,etc etc.....**
+- 💬 Ask me about **AWS,CI/CD,Python,React,etc etc.....**
 
 - ⚡ Fun fact **I am funny..xD**<br>
 <a href="https://www.buymeacoffee.com/zaidfarooq624"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=zaidfarooq624&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
