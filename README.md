@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/zfarooq624" target="blank"><img src="https://img.shields.io/twitter/follow/zfarooq624?logo=twitter&style=for-the-badge" alt="zfarooq624" /></a> </p>
 
-- 🌱 I’m currently **Docker/K8**
+- 🌱 I’m currently learning **Docker/K8**
 
 - 💬 Ask me about **AWS,CI/CD,Python,React,etc etc.....**
 
