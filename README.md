@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zahoor Farooq</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaydfarooq&label=Profile%20views&color=0e75b6&style=flat" alt="zaydfarooq" /> </p>
 
 <p align="left"> <a href="https://twitter.com/zfarooq624" target="blank"><img src="https://img.shields.io/twitter/follow/zfarooq624?logo=twitter&style=for-the-badge" alt="zfarooq624" /></a> </p>
 
-- 🌱 I’m currently learning **Docker/K8**
+- 🌱 I’m currently learning **MLOps**
 
-- 💬 Ask me about **AWS,CI/CD,Python,React,etc etc.....**
+- 💬 Ask me about **AWS,CI/CD,Docker, K8,Python,React,etc etc.....**
 
 - ⚡ Fun fact **I am funny..xD**<br>
 <a href="https://www.buymeacoffee.com/zaidfarooq624"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=zaidfarooq624&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
