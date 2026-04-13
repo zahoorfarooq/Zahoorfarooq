@@ -1,28 +1,137 @@
-<h1 align="center">Hi 👋, I'm Zahoor Farooq</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaydfarooq&label=Profile%20views&color=0e75b6&style=flat" alt="zaydfarooq" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/zfarooq624" target="blank"><img src="https://img.shields.io/twitter/follow/zfarooq624?logo=twitter&style=for-the-badge" alt="zfarooq624" /></a> </p>
+```
+╔══════════════════════════════════════════════════════════════╗
+║  zahoor@devops:~$ whoami                                     ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-- 🌱 I’m currently learning **MLOps**
+# Zahoor Farooq
 
-- 💬 Ask me about **AWS,CI/CD,Docker, K8,Python,React,etc etc.....**
+**DevOps & Infrastructure Engineer** — building resilient systems on AWS, one pipeline at a time.
 
-- ⚡ Fun fact **I am funny..xD**<br>
-<a href="https://www.buymeacoffee.com/zaidfarooq624"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=zaidfarooq624&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Zahoorfarooq)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zfarooq624)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/zaydfarooq)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/zaydfarooq)
+[![Profile Views](https://komarev.com/ghpvc/?username=zahoorfarooq&color=0e75b6&style=flat-square&label=profile+views)](https://github.com/zahoorfarooq)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zfarooq624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zfarooq624" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Zahoorfarooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahoor ahmad dar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/zaydfarooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zaydfarooq" height="30" width="40" /></a>
-<a href="https://instagram.com/thezaidfarooq79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thezaidfarooq79" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zaydfarooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zaydfarooq" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahoorfarooq&show_icons=true&locale=en&layout=compact" alt="zahoorfarooq" /></p>
+```yaml
+# system.profile
+name:       Zahoor Farooq
+role:       DevOps / Infrastructure Engineer
+location:   India
+status:     🟢 online
+currently:  Learning MLOps
+```
 
-<p align="right"> <img src=https://github-readme-stats.vercel.app/api?username=zahoorfarooq&show_icons=true alt=zahoorfarooq /> </p>
+---
+
+## `$ cat skills.yaml`
+
+```yaml
+cloud:
+  - AWS (EC2, ECS, Lambda, CloudWatch, S3, IAM, RDS, Route53)
+
+infrastructure_as_code:
+  - Terraform
+  - Ansible
+  - CloudFormation
+
+ci_cd:
+  - GitHub Actions
+  - Jenkins
+  - Docker
+  - Kubernetes
+
+languages:
+  - Python
+  - Bash
+  - JavaScript / TypeScript
+
+frontend:
+  - React
+  - Next.js
+  - Tailwind CSS
+
+observability:
+  - CloudWatch
+  - Prometheus (learning)
+  - Grafana (learning)
+
+current_focus:
+  - MLOps
+  - AI/ML infrastructure
+  - LLM deployment pipelines
+```
+
+---
+
+## `$ ls ./toolchain`
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## `$ tail -n 4 /var/log/projects.log`
+
+```
+[INFRA]   Centralized DevOps alerting dashboard — CloudWatch + GitHub Actions
+          + Ansible + Terraform data → React frontend / Lambda + DynamoDB backend
+
+[MONITOR] Full EC2 observability stack — CloudWatch Agent, custom healthchecks,
+          auto-recovery alarms, SSM failure alerts → Teams + Outlook (SES)
+
+[CI/CD]   Ansible controller migration to GitHub Org repos — SAML SSO, SSH
+          deploy keys, GitHub Actions workflows, fully automated
+
+[CURRENT] MLOps pipeline architecture — local LLM inference & cloud deployment
+```
+
+---
+
+## `$ git log --oneline`
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=zahoorfarooq&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahoorfarooq&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  "automate everything, monitor everything, break nothing"    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+[![Buy Me A Coffee](https://img.shields.io/badge/buy_me_a_coffee-FF5F5F?style=flat-square&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/zaidfarooq624)
+
+</div>
