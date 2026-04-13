@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  zahoor@devops:~$ whoami                                     ║
+║  zahoorfarooq@devops:~$ whoami                                     ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -50,6 +50,7 @@ ci_cd:
 
 languages:
   - Python
+  - CPP
   - Bash
   - JavaScript / TypeScript
 
@@ -60,6 +61,7 @@ frontend:
 
 observability:
   - CloudWatch
+  - Newrelic
   - Prometheus (learning)
   - Grafana (learning)
 
