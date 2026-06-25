@@ -21,10 +21,10 @@ $ cat /etc/zahoor.conf
   title       : DevOps & Infrastructure Engineer
   location    : India 🇮🇳
   caffeine    : [████████████] 100%
-  status      : 🟢 online & deploying
-  currently   : learning MLOps
-  ask_me_about: AWS, CI/CD, Docker, K8s, Terraform
-  superpower  : turning 3am pages into boring RCAs
+  status      : 🟢 online
+  currently   : learning AIOps
+  ask_me_about: AWS, CI/CD, Docker, K8s, Terraform, Ansible etc
+  superpower  : I am batman
   fun_fact    : I am funny..xD
 ```
 
